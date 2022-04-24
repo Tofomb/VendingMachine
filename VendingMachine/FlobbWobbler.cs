@@ -25,25 +25,6 @@
         public override int Price { get; set; }
         public override string Name { get; set; }
 
-        //  public override bool lolvalue { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
-
-        /*
-        public FlobbWobbler()
-        {
-           FlobbWobbler flobb = new FlobbWobbler();
-            flobb.SuperRare
-        }
-
-        public override string Examine()
-        {
-            return ("it is lit");
-        }
-
-        public override string Use()
-        {
-            return ("You don't use FlobbWobblers, you collect them!");
-        }
-        */
     }
 
 }
